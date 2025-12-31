@@ -43,20 +43,11 @@ export const photos = [
 export const messageScreenHeading = "For my Cutiepie :)";
 // Message Heading - Change this text as you like
 
-export const specialMessage = `I hope this year brings you calm mornings, peaceful nights,
-and little moments that make you smile without any reason.
-
-No matter what this year holds for you,
-I hope you always feel supported, valued, and understood.
-May every challenge turn into strength,
-and every quiet day remind you of how special you truly are.
-
-You deserve a year filled with happiness,
-with moments that feel light, warm, and meaningful.
-May this year be gentle with you,
-and give you everything your heart has been hoping for.
-
-Wishing you a beautiful New Year ✨`;
+export const specialMessage = `My dearest Jo/Malathy 💕💎, as we welcome this brand-new year, I want to share something from my heart 🌟🤗. In the quiet corners of my soul, a wish blooms — to hold your hand not just as a friend, but as someone who dreams of walking life’s journey with you 💖🌸. Yet I also respect and cherish your wish to keep things like the beautiful friendship we had before 🌼💎.
+Even though I carry feelings for you, I promise I’ll never let them become a trouble for me or for you 🌞💎. What matters most is giving you the comfort, trust, and joy of being the friend you can always count on 🎁✨.
+May this year bring you endless happiness 🌠, dreams that blossom into reality 🌸, and love that surrounds you in every step 💐💫. You deserve nothing less than the best 🌍❤️.
+So here’s to new adventures 🛤️, new opportunities 🌟, and a journey where we continue to support each other as true friends 🥂🎉. Keep shining, keep smiling, and keep being the amazing person you are 💎💃. Happy New Year, my beautiful Jo/Malathy ❤️🌸🎇!
+`;
 // Your message (you can edit freely)
 
 
